@@ -2,7 +2,9 @@ BLOVE - BHSS 2025-26 ICS4U (Grade 12 Computer Science) Final Project Application
 (Dec. 2025 - Jan. 2026)
 -
 Collaborators: Jasper K., Jasmita M., Joshua P., Natalie T. (Bill Hogarth Secondary School)
+
 IDE: Apache Netbeans
+
 Additional resources: Canva, Visual Studio (VS) Code (Joshua)
 
 -----
